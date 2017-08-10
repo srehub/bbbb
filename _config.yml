@@ -1,5 +1,5 @@
 name: SRE Hub
-url: http://fex.baidu.com
+url: http://www.srehub.com
 source:      .
 destination: ./_site
 lsi:      false
