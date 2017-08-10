@@ -4,7 +4,7 @@
     var projects = {{ site.data.projects | jsonify }};
     var randomIndex = parseInt(Math.random() * (projects.length - 1));
     var project = projects[randomIndex];
-    var url = 'http://github.com/fex-team/' + project.github;
+    var url = 'http://github.com/srehub/' + project.github;
     if ('url' in project) {
         url = project.url;
     }
