@@ -1,0 +1,17 @@
+name: SRE Hub
+url: http://www.srehub.com
+source:      .
+destination: ./_site
+lsi:      false
+safe:     false
+markdown: kramdown
+permalink: /blog/:year/:month/:title/
+paginate: 12
+paginate_path: "articles/page:num"
+encoding: utf-8
+gems: [jekyll-paginate] 
+post_defaults:
+  layout: post
+
+#redcarpet:
+#  extensions: ["tables", "autolink"]

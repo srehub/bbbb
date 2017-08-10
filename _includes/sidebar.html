@@ -1,0 +1,14 @@
+<div class="page-sidebar">
+    <!-- <div>
+        <img src="/public/images/formula.png" />
+    </div> -->
+
+    <ul class="github-projects">
+        {% for project in site.data.projects %}
+            <li><a href="https://github.com/fex-team/{{ project.github }}" target="_blank">{{ project.name }} - {{ project.desc }}</a></li>
+        {% endfor %}
+    </ul>
+    
+    <div style="text-align:center;margin:10px 0;"><img src="/public/images/erwei.jpg" /></div>
+
+</div>

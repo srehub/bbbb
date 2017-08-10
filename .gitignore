@@ -1,0 +1,5 @@
+Gemfile.lock
+.DS_Store
+.idea/
+_site/
+_grunt/node_modules/
