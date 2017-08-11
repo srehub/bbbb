@@ -1,7 +1,7 @@
 ---
 layout: page
-title: FEX 需要你
-author: FEX
+title: SRE 需要你
+author: SRE
 page_id: needyou
 ---
 
