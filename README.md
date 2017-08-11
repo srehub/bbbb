@@ -1,6 +1,6 @@
 ## 这什么？
 
-这是 FEX 团队对外首页的源码，将文章提交到这里后就会在 <http://www.srehub.com> 上展现。
+这是 SRE 团队对外首页的源码，将文章提交到这里后就会在 <http://www.srehub.com> 上展现。
 
 ## 环境搭建
 
@@ -87,7 +87,7 @@ jekyll 官方对 winodws 的支持程度很低，推荐使用 [Building portable
 具体内容形式将包括但不限于：
 
 * 技术介绍、经验总结
-* FEX 新开源项目及升级版本介绍
+* SRE 新开源项目及升级版本介绍
 * 优秀文章的翻译
 * 优秀资源（书籍、开源项目）等的推荐
 * 内部分享的 PPT（推荐使用 [Speaker Deck](https://speakerdeck.com/) 存放）
@@ -114,6 +114,6 @@ jekyll 官方对 winodws 的支持程度很低，推荐使用 [Building portable
     * 简单来说就是：用起来不爽
 * 为何不用时下流行的 Hexo？
     * Hexo 是将生成后的页面放 github 中，多人编辑出现冲突时合并麻烦
-* 我不是 FEX 团队成员，可以在这里发表文章么？
+* 我不是 SRE 团队成员，可以在这里发表文章么？
     * 真的？可以啊，请提 pull request
 
