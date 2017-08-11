@@ -1,6 +1,6 @@
 ---
 layout: page
-title: SRE 需要你
+title: We Need You
 author: SRE
 page_id: needyou
 ---
