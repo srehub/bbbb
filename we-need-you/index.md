@@ -64,6 +64,3 @@ FEX 是百度「Web 前端研发部」的内部名称，其中 FE 是 Front End 
 - 若 FEX 的招聘名额有所限制，我们会将简历转至百度其它前端团队。
 
 ***
-
-如果你对 LAMP 开发更感兴趣，推荐看看 [Baidu LAMP](http://lamp.baidu.com/)。
-
