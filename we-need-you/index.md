@@ -39,6 +39,7 @@ SRE Hub(srehub.com)定位是一个公益的技术项目，是一个去中心化�
 ## 如何加入？
 
 希望加入的话请先看看 [我们的面试题](https://github.com/srehub/interview-questions) ，提前做好准备，然后通过以下三种方式联系我们：
+
     * 微信OnCall
     * 邮件
     * github.com PR
