@@ -54,10 +54,4 @@ SRE Hub(srehub.com)定位是一个公益的技术项目，是一个去中心化�
 - [吐嘈「个人简历」](http://mp.weixin.qq.com/s?__biz=MzA5NDY0ODkxNA==&mid=200168752&idx=1&sn=348edc7956f1ac9652aa2523b902bef5&scene=4)
 - [如何写打动人的「个人简历」](http://mp.weixin.qq.com/s?__biz=MzA5NDY0ODkxNA==&mid=200173772&idx=1&sn=895a5c66548c1b4a72153b2217350ca1&scene=4)
 
-**注**：
-
-- 附件中请勿包含 zip 或 rar 文件，因为目前发现极有可能被邮件系统过滤，最好是 docx 或 pdf 文件
-- FEX 团队没有以任何「个人名义或邮箱」进行招聘，所有简历都以投递到 fex-hr@baidu.com 为准，其它渠道的招聘信息均为假冒，请大家提高警惕。
-- 若 FEX 的招聘名额有所限制，我们会将简历转至百度其它前端团队。
-
 ***
