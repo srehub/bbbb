@@ -1,5 +1,5 @@
 - name: Docs
   desc: SRE Hub Tech Docs.
-  github: kityminder
+  github: docs
   banner: 384042
   url: https://github.com/SREHub/docs
