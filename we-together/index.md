@@ -1,6 +1,6 @@
 ---
 layout: page
-title: We Need You
+title: We Together
 author: Dean
 page_id: needyou
 ---
